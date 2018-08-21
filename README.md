@@ -1,0 +1,2 @@
+# mediosInteractivos
+Primer ejercicio, Kandinsky
